@@ -18,7 +18,7 @@
 *   **Trigger:** The workflow runs automatically on every `push` to the `main` branch.
 *   **Logs:** The execution results can be viewed under the **Actions** tab -> **Hello** workflow.
 
-* **Execution result:** - https://github.com/maksimsolapai-gif/GitHub_actions/actions/runs/32461629751
+* **Execution result:**  https://github.com/maksimsolapai-gif/GitHub_actions/actions/runs/32461629751
 
 ### Homework Assignment 2: Building and Testing with GitHub Actions
 
@@ -29,4 +29,4 @@
     *   ✅ **Green status (passing)** — All tests passed successfully.
     *   ❌ **Red status (failing)** — Code contains bugs or tests failed.
 
-* **Execution result:** - hello_action.yml workflow execution - https://github.com/maksimsolapai-gif/GitHub_actions/actions/runs/32468008774
+* **Execution result:**  https://github.com/maksimsolapai-gif/GitHub_actions/actions/runs/32468008774
