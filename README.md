@@ -1,5 +1,5 @@
 # 04. GIT. GitLab
-### Description: To complete the task, I used an Ubuntu VM running Docker containers with GitLab-CI and GitLab Runner.
+### Description: To complete the task, I used a virtual machine running Ubuntu, with Docker containers for GitLab CI and GitLab Runner.
 **compose.yml**
 
 
